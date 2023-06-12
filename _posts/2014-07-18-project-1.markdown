@@ -4,9 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: June 2023
-client: Personal portfolio
-category: Machine Learning
-description: In this, an attempt is made to predict the severity of a traffic accident.
-The target feature is Accident_severity which is a multi-class variable. The task is to classify this variable based on the other 31 features, The metric used for evaluation is f1-score
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
