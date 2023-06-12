@@ -30,11 +30,16 @@
                 <strong>{{ post.project-date }}</strong>
               </li>
               {% endif %}
-              {% if post.category %}
+              <!-- {% if post.category %}
               <li>Service:
                 <strong>{{ post.category }}</strong>
               </li>
-              {% endif %}
+              {% endif %} -->
+              {% if post.link %}
+              <li>Service:
+                <strong>{{ post.link }}</strong>
+              </li>
+              {% endif %}             
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
