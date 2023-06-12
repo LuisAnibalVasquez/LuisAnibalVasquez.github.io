@@ -25,7 +25,7 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary:  070A0D
+  primary:  268C35 #este es el verde
   primary-rgb:  "7, 10, 13" #24,288,156"
   secondary:  161B22 
   secondary-dark: 268C35
