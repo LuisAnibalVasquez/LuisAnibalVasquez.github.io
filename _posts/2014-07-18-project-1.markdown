@@ -9,5 +9,5 @@ client: Personal Portfolio
 category: Machine Learning
 link: https://github.com/LuisAnibalVasquez/Road-Traffic-Severity-Classification
 description: In this, an attempt is made to predict the severity of a traffic accident.
-The target feature is Accident_severity which is a multi-class variable. The metric used for evaluation is f1-score.
+The target feature is Accident_severity which is a multi-class variable. The metric used for evaluation is f1-score. Nam.
 ---
