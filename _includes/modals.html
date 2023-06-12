@@ -36,8 +36,10 @@
               </li>
               {% endif %} -->
               {% if post.link %}
-              <li>Service:
-                <strong>{{ post.link }}</strong>
+              <li>Link:
+                <strong>
+                <a href={{ post.link }} target=”_blank”>GitHub</a>
+              </strong>
               </li>
               {% endif %}             
             </ul>
