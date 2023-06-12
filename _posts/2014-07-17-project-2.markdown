@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: deep learning.png
+img: dl.png
 alt: image-alt
 project-date: June 2023
 client: Personal Portfolio
