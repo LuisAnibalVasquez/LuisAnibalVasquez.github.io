@@ -10,5 +10,5 @@ category: Machine Learning
 description: In this, an attempt is made to predict the severity of a traffic accident.
 The target feature is Accident_severity which is a multi-class variable. 
 The task is to classify this variable based on the other 31 features.
-The metric used for evaluation is f1-score.
+The metric used for evaluation is f1-score. Nam.
 ---

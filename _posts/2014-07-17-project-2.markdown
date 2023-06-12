@@ -10,5 +10,5 @@ category: Deep Learning
 description: In this, an attempt is made to classify whether the given event was a signal or a background noise in the process of decay for Higgs particle acceleration.
 The target feature is Label which is a binary variable. 
 The task is to classify this variable based on the other 31 features.
-The metric used for evaluation is Precision.
+The metric used for evaluation is Precision. Nam.
 ---
