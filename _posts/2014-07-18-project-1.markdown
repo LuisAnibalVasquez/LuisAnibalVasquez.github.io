@@ -2,10 +2,15 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: MACHINE-LEARNING.png
 alt: image-alt
 project-date: June 2023
 client: Personal Portfolio
 category: Machine Learning
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: In this, an attempt is made to predict the severity of a traffic accident.
+The target feature is Accident_severity which is a multi-class variable. 
+
+The task is to classify this variable based on the other 31 features.
+
+The metric used for evaluation is f1-score
 ---
