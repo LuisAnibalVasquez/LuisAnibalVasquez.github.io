@@ -2,9 +2,9 @@
 title: Luis Vásquez
 email: LuisAnibalVasquez@gmail.com
 url: https://github.com/LuisAnibalVasquez
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Machine Learning Engineer "
+description: "Machine Learning Engineer Jr with extense training in Machine Learning, DeepLearning, Cloud and technologies such as: Python, TensorFlow, Jupyter Notebooks, Streamlit, MLOps, Weights & Bias, MLFlow, Flask, Azure DataFactory, DataBricks, Azure Synapse, Power BI, GCP, Azure, AWS"
+keywords: "machine learning, deep learning, NLP, computer vision, freelace, venezuela, remote"
+skills: "Machine Learning Engineer"
 meta_author: Vasquez Luis
 
 # Google webmaster tools
@@ -39,16 +39,10 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/luisanibalvasquez/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/LuisAnibalVasquez
 
 # Postal address (add as many lines as necessary)
 address:
