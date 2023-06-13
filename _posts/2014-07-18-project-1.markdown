@@ -1,13 +1,12 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: ml.png
+modal-id: 2
+date: 2014-07-17
+img: dl.png
 alt: image-alt
 project-date: June 2023
 client: Personal Portfolio
-category: Machine Learning
-link: https://github.com/LuisAnibalVasquez/Road-Traffic-Severity-Classification
-description: In this, an attempt is made to predict the severity of a traffic accident.
-The target feature is Accident_severity which is a multi-class variable. The metric used for evaluation is f1-score.
+category: Deep Learning
+link: https://github.com/LuisAnibalVasquez/Higgs-Boson-Event-Detection
+description: In this, an attempt is made to classify whether the given event was a signal or a background noise in the process of decay for Higgs particle acceleration. The target feature is Label which is a binary variable. The metric used for evaluation is Precision.
 ---
