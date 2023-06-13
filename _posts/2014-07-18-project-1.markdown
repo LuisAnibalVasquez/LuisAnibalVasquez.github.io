@@ -8,5 +8,5 @@ project-date: June 2023
 client: Personal Portfolio
 category: Machine Learning
 link: https://github.com/LuisAnibalVasquez/Road-Traffic-Severity-Classification
-description: In this, an attempt is made to predict the severity of a traffic accident.The target feature is Accident_severity which is a multi-class variable. The metric used for evaluation is f1-score.
+description: In this project the goal is predict the severity of a traffic accident based on their characteristics, to do that, analyzed data from Addis Ababa Sub-city police departments between the years 2017 and 2020 and generated a machine learning model using Scikit  learn.
 ---

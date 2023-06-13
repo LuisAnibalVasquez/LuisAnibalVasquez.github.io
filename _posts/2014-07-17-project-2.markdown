@@ -8,5 +8,5 @@ project-date: June 2023
 client: Personal Portfolio
 category: Deep Learning
 link: https://github.com/LuisAnibalVasquez/Higgs-Boson-Event-Detection
-description: In this, an attempt is made to classify whether the given event was a signal or a background noise in the process of decay for Higgs particle acceleration. The target feature is Label which is a binary variable. The metric used for evaluation is Precision.
+description: In this project the goal is to predict if a event produced in the Large Hadron Collider (LHC) is a signal of background noise in the process of decay for Higgs particle acceleration, for this  I analyze the dataset from LHC and builed a Neuronal Network using Keras.
 ---
