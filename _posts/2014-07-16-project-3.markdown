@@ -4,9 +4,9 @@ modal-id: 3
 date: 2014-07-16
 img: NLP.png
 alt: image-alt
-project-date: JUne 2023
+project-date: June 2023
 client: Personal Portfolio
 category: NLP
 link: https://github.com/LuisAnibalVasquez/Cyberbullying-Detection-Text-Classification
-description: In this project, the objective is to classify a tweet as Toxic or not, for this, tweets from various sources such as Kaggle, Twitter, Wikipedia Talk pages and YouTube were analyzed and a neural network was developed to make the classification. Nam.
+description: In this project, the objective is to classify a tweet as Toxic or not, for this, tweets from various sources such as Kaggle, Twitter, Wikipedia Talk pages and YouTube were analyzed and a neural network was developed to make the classification.
 ---
